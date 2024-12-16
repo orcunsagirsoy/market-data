@@ -1,5 +1,5 @@
 package com.example.market_data_analyzer.Mapper;
-import com.example.market_data_analyzer.DTO.MarketDataDTO;
+/*import com.example.market_data_analyzer.DTO.MarketDataDTO;
 import com.example.market_data_analyzer.Entity.MarketData;
 
 import java.util.List;
@@ -46,4 +46,4 @@ public class MarketDataMapper {
                 .map(MarketDataMapper::toModel)
                 .collect(Collectors.toList());
     }
-}
+}*/

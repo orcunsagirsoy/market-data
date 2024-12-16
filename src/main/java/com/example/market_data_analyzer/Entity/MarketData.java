@@ -1,6 +1,6 @@
 package com.example.market_data_analyzer.Entity;
 
-import jakarta.persistence.*;
+/*import jakarta.persistence.*;
 import java.time.LocalDate;
 
 @Entity
@@ -109,4 +109,4 @@ public class MarketData {
     public void setName(String name) {
         this.name = name;
     }
-}
+}*/
